@@ -1,0 +1,45 @@
+/*Small Mobile*/
+@media (min-width: 375px) and (max-width: 425px){
+	.main-banner{
+		padding-top: 150px;
+	}
+}
+
+/*Medium Mobile*/
+@media (min-width: 375px) and (max-width: 425px){
+	.main-banner{
+		padding-top: 150px;
+	}
+}
+
+
+/*Large Mobile*/
+@media (min-width: 375px) and (max-width: 425px){
+	.main-banner{
+		padding-top: 150px;
+	}	
+}
+
+
+/*Tablet*/
+@media (min-width: 425px) and (max-width: 768px){
+	.main-banner{
+		padding-top: 100px;
+	}		
+}
+
+
+/*Laptop*/
+@media (min-width: 768px) and (max-width: 1024px){
+	.main-banner{
+		padding-top: 150px;
+	}
+}
+
+/*Others*/
+
+@media (min-width: 1024px){
+	.main-banner{
+		padding-top: 200px;
+	}
+}
